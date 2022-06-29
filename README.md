@@ -1,5 +1,5 @@
 # wolf3d.rs
-Simple console based Wolfenstein like raycasting with rust.
+Simple console based Wolfenstein like raycasting with rust and console_engine.
 Inspired by console based command line fps by @OneLoneCoder.
 
 ### Demo Play
